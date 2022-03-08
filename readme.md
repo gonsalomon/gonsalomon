@@ -4,9 +4,9 @@ My name is Gonzalo, I'm from Argentina and I'm a student.
 
 ## Skills
 
-*Used a lot of OOP in Java, currently learning some Spring
-*Some PHP coding (made an MVC backend, check my repo)
-*Avid learner
+* Used a lot of OOP in Java, currently learning some Spring
+* Some PHP coding (made an MVC backend, check my repo)
+* Avid learner
 
 ## Contact
 
