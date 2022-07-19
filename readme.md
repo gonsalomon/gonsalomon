@@ -7,6 +7,7 @@ My name is Gonzalo, I'm from Argentina and I'm a student.
 
 * Used a lot of OOP in Java, currently learning some Spring
 * Some PHP coding (made an MVC backend, check my repo)
+* Currently learning React+TypeScript
 * Avid learner
 
 ## Contact
@@ -18,12 +19,13 @@ Find all of my socials and CV in my [website](https://gonsalomon.github.io)
 ## ES
 ## Hola!
 
-Soy Gonzalo, estudiante argentino.
+Soy Gonzalo, estudiante de TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas).
 
 ## Habilidades
 
-* Usé mucho POO en Java, actualmente aprendo algo de Spring
+* Usé mucha POO en Java, actualmente aprendo algo de Spring
 * Algo de código en PHP (armé un back en MVC, revisá mi repo)
+* Aprendiendo React+TypeScript
 * Ávido por aprender más
 
 ## Contacto
