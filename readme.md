@@ -1,4 +1,5 @@
 # EN
+Proficient English level- in case having a bilingual introduction isn't enough...
 ## Hello!
 My name is Gonzalo, I'm from Argentina and I'm a TUDAI (programming in college, UNCPBA) student. 
 
@@ -23,6 +24,7 @@ Update 2024/5/13:
 Get in touch at salomongonzalo8@gmail.com, or visit my page for more detailed info (main CV, portfolio, contact info)!
 
 # ES
+Hablante nativo de español- aunque no me limito a eso, sino que manejo bastante bien el inglés...
 ## Hola!
 Soy Gonzalo, estudiante de TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas, UNCPBA).
 
